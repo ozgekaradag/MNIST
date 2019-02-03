@@ -7,7 +7,6 @@ It is a data-set, consisting images of handwritten digits from 0 to 9. Each imag
 
 
 
-Source: https://www.tensorflow.org/tutorials/layers
 
 ### Objective:
 Train a computer system to first understand what are handwritten images of digits an then test the system to predict new handwritten images correctly. We will feed our system with MNIST dataset and test it with random images to check the accuracy of its predictions.
@@ -43,3 +42,6 @@ Then ReLU function is applied to bring the negative values to 0 and keep the pos
 The second convolutional layer has 64 features for each 5*5 patch.
 
 Now that the image size has been reduces to 7*7 we add a fully-connected layer with 1024 neurons.
+
+### Prediction Accuracy:
+0.9919
