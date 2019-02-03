@@ -1,7 +1,9 @@
 # MNIST
 
-MNIST handwritten images:
+# MNIST handwritten Images:
 It is a data-set, consisting images of handwritten digits from 0 to 9. Each image is a monochrome , 28 * 28 pixel. See the example below:
+<img src="https://www.tensorflow.org/images/mnist_0-9.png" width="500">
+
 
 
 Source: https://www.tensorflow.org/tutorials/layers
